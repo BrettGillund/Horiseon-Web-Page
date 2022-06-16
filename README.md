@@ -1,2 +1,1 @@
-# Horiseon-Web-Page
-Horiseon web page management and update
+# Code Refactor Starter Code
